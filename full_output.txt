@@ -1,0 +1,72 @@
+Dataset loaded: 80 tickets across 4 categories
+category
+BILLING      20
+TECHNICAL    20
+HR           20
+GENERAL      20
+Name: count, dtype: int64 
+
+============================================================
+ACCURACY: 0.7500
+============================================================
+
+CLASSIFICATION REPORT:
+              precision    recall  f1-score   support
+
+     BILLING       0.57      0.80      0.67         5
+     GENERAL       1.00      0.80      0.89         5
+          HR       0.67      0.80      0.73         5
+   TECHNICAL       1.00      0.60      0.75         5
+
+    accuracy                           0.75        20
+   macro avg       0.81      0.75      0.76        20
+weighted avg       0.81      0.75      0.76        20
+
+
+CONFUSION MATRIX:
+[[4 0 1 0]
+ [0 4 1 0]
+ [1 0 4 0]
+ [2 0 0 3]]
+============================================================
+Model saved → ticket_classifier.pkl
+
+============================================================
+PREDICTIONS ON NEW UNSEEN TICKETS
+============================================================
+
+[1] Ticket: 'the app keeps crashing on the checkout screen'
+    → TECHNICAL | Confidence: 55.62% | Priority: URGENT | Action: NEEDS HUMAN REVIEW
+
+[2] Ticket: 'when is my next salary increment due'
+    → HR | Confidence: 51.58% | Priority: NORMAL | Action: NEEDS HUMAN REVIEW
+
+[3] Ticket: 'I was billed twice this month, please refund'
+    → BILLING | Confidence: 60.07% | Priority: NORMAL | Action: AUTO-ASSIGN
+
+[4] Ticket: 'what time does the office open on weekends'
+    → GENERAL | Confidence: 41.2% | Priority: NORMAL | Action: NEEDS HUMAN REVIEW
+
+[5] Ticket: 'the server has been down since this morning, urgent'
+    → TECHNICAL | Confidence: 49.36% | Priority: URGENT | Action: NEEDS HUMAN REVIEW
+
+[6] Ticket: 'how to apply for annual leave next week'
+    → HR | Confidence: 65.58% | Priority: NORMAL | Action: AUTO-ASSIGN
+
+[7] Ticket: ''
+    → GENERAL | Confidence: 0.0% | Priority: NORMAL | Action: NEEDS HUMAN REVIEW (empty ticket)
+
+[8] Ticket: None
+    → GENERAL | Confidence: 0.0% | Priority: NORMAL | Action: NEEDS HUMAN REVIEW (empty ticket)
+
+============================================================
+REFLECTION NOTE
+============================================================
+
+With more data I would add class balancing techniques and try Logistic Regression
+or LinearSVC for comparison, since Naive Bayes assumes feature independence which
+rarely holds for real ticket text. I would also introduce a proper stratified
+validation set and track confidence calibration over time. For production I would
+wrap this in a FastAPI endpoint with structured logging, and route low-confidence
+tickets to a human-review dashboard instead of just flagging them in the console.
+    
