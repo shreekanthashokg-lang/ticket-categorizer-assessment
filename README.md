@@ -25,7 +25,7 @@ A model that reads support ticket text and predicts its category: **Billing, Tec
 
 Own dummy dataset — 80 tickets, 20 per category, written by hand (not the sample data given in the brief).
 
-## Results
+## RESULTS
 
 - Accuracy: **75%** on a stratified 20-ticket test split
 - Full classification report and confusion matrix in `full_output.txt`
