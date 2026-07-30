@@ -35,7 +35,7 @@ Own dummy dataset — 80 tickets, 20 per category, written by hand (not the samp
 
 Empty strings and `None` values don't crash the script — they get tagged `GENERAL` with a `NEEDS HUMAN REVIEW (empty ticket)` flag.
 
-## Run it
+## RUN IT
 
 ```bash
 pip install scikit-learn pandas numpy joblib
