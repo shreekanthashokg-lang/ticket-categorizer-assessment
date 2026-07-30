@@ -13,7 +13,7 @@ A model that reads support ticket text and predicts its category: **Billing, Tec
 | `full_output.txt` | Console output from an actual run (accuracy, report, predictions) |
 | `ticket_classifier.pkl` | Trained model, saved with joblib |
 
-## How it WORKS
+## HOW IT WORKS
 
 1. **Clean the text** — lowercase, strip URLs, remove punctuation
 2. **Vectorize** — TF-IDF with 1-2 grams, English stopwords removed
