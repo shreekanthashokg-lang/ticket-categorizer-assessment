@@ -1,7 +1,7 @@
 """
 Auto Email / Ticket Categorizer
 Fobes Skill Itech - AI/ML Intern Assessment
-Author: Shreekanth
+Author: Shreekanth A GUTTEDAR
 """
 
 import re
