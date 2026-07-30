@@ -1,4 +1,4 @@
-# TICKET Categorizer
+# TICKET CATEGORIZER
 
 Auto Email / Ticket Categorizer — AI/ML Intern Assessment (Fobes Skill Itech Pvt Ltd)
 
