@@ -1,6 +1,6 @@
 # TICKET CATEGORIZER
 
-AUTO EMAIL / TICKET CATEGORIES — AI/ML INTERN ASSESSMENT (Fobes Skill Itech Pvt Ltd)
+AUTO EMAIL / TICKET CATEGORIES — AI/ML INTERN ASSESSMENT (FOBES SKILL ITECH PVT LTD)
 
 A model that reads support ticket text and predicts its category: **Billing, Technical, HR, or General**. Also tags priority (Urgent/Normal) and flags low-confidence predictions for human review instead of auto-assigning them.
 
