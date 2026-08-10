@@ -27,7 +27,7 @@ OWN DUMMY dataset — 80 tickets, 20 per category, written by hand (not the samp
 
 ## RESULTS
 
-- ACCURACY: **75%** on a stratified 20-ticket test split
+- ACCURACY: **75%** on a stratified 20-ticket TEST SPLIT
 - FULL CLASSIFICATION report and confusion matrix in `full_output.txt`
 - CONFUSION IS MOSTLY Billing ↔ HR, WHICH MAKES SENSE — both have similar request-style phrasing ("need help with...", "requesting...")
 
