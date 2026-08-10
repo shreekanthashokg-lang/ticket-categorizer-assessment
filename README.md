@@ -15,7 +15,7 @@ AN ASSIGNING TIME.
 
 ## HOW IT WORKS
 
-1. **Clean the text** — lowercase, strip URLs, remove punctuation
+1. **Clean the text** — LOWERCASE, strip URLs, remove punctuation
 2. **Vectorize** — TF-IDF with 1-2 grams, English stopwords removed
 3. **Classify** — Multinomial Naive Bayes (works well on small text datasets, fast to train)
 4. **Score confidence** — if the model's top prediction is below 60%, the ticket goes to `NEEDS HUMAN REVIEW` instead of getting auto-assigned
