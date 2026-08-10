@@ -6,7 +6,7 @@ A MODEL THAT READS SUPPORT TICKET TEXT AND PREDICTS ITS CATEGORY : **Billing, Te
 AN ASSIGNING TIME.
 ## FILES
 
-| File | What it is |
+| File | WHAT IT IS |
 |---|---|
 | `ticket_categorizer.py` | Main script — run this directly |
 | `ticket_categorizer.ipynb` | Same code, split into notebook cells for Colab |
