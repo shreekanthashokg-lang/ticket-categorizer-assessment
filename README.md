@@ -2,8 +2,8 @@
 
 AUTO EMAIL / TICKET CATEGORIES — AI/ML INTERN ASSESSMENT (FOBES SKILL ITECH PVT LTD)
 
-A MODEL THAT READS SUPPORT TICKET TEXT AND PREDICTS ITS CATEGORY : **Billing, Technical, HR, or General**. ALSO TAGS priority (Urgent/Normal) and flags low-confidence predictions for human review instead of auto-assigning them.
-
+A MODEL THAT READS SUPPORT TICKET TEXT AND PREDICTS ITS CATEGORY : **Billing, Technical, HR, or General**. ALSO TAGS priority (Urgent/Normal) and flags low-confidence predictions for human review instead of auto-
+AN ASSIGNING TIME.
 ## FILES
 
 | File | What it is |
