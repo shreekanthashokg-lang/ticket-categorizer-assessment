@@ -28,7 +28,7 @@ Own dummy dataset — 80 tickets, 20 per category, written by hand (not the samp
 ## RESULTS
 
 - ACCURACY: **75%** on a stratified 20-ticket test split
-- Full classification report and confusion matrix in `full_output.txt`
+- FULL CLASSIFICATION report and confusion matrix in `full_output.txt`
 - CONFUSION is mostly Billing ↔ HR, which makes sense — both have similar request-style phrasing ("need help with...", "requesting...")
 
 ## EDGE CASES
