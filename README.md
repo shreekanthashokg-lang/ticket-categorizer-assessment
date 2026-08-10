@@ -9,9 +9,9 @@ AN ASSIGNING TIME.
 | File | WHAT IT IS |
 |---|---|
 | `ticket_categorizer.py` | Main script — run this directly |
-| `ticket_categorizer.ipynb` | Same code, split into notebook cells for Colab |
+| `ticket_categorizer.ipynb` | SAME CODE, split into notebook cells for Colab |
 | `full_output.txt` | Console output from an actual run (accuracy, report, predictions) |
-| `ticket_classifier.pkl` | Trained model, saved with joblib |
+| `ticket_classifier.pkl` | Trained MODEL, saved with joblib |
 
 ## HOW IT WORKS
 
