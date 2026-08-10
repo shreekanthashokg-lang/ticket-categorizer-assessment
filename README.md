@@ -23,7 +23,7 @@ AN ASSIGNING TIME.
 
 ## Dataset
 
-Own dummy dataset — 80 tickets, 20 per category, written by hand (not the sample data given in the brief).
+OWN DUMMY dataset — 80 tickets, 20 per category, written by hand (not the sample data given in the brief).
 
 ## RESULTS
 
