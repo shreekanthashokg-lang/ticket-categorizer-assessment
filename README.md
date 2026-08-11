@@ -44,7 +44,7 @@ python ticket_categorizer.py
 
 Or open `ticket_categorizer.ipynb` in Google Colab and run all cells.
 
-## What I'd IMPROVE with MORE TIME
+## WHAT I'd IMPROVE WITH MORE TIME
 
 - TRY LOGISTIC Regression / LinearSVC alongside Naive Bayes for comparison
 - Bigger dataset — 80 tickets is enough to prove the pipeline works, not enough for production-level accuracy
