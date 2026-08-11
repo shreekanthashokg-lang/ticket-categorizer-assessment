@@ -21,7 +21,7 @@ AN ASSIGNING TIME.
 4. **Score confidence** — if the model's top prediction is below 60%, the ticket goes to `NEEDS HUMAN REVIEW` instead of getting auto-assigned
 5. **Tag priority** — keyword match against words like "urgent", "down", "crashed", "error 500" → `URGENT`, else `NORMAL`
 
-## Dataset
+## DATASET
 
 OWN DUMMY DATASET — 80 TICKETS, 20 per category, written by hand (not the sample data given in the brief).
 
