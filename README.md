@@ -33,7 +33,7 @@ OWN DUMMY DATASET — 80 TICKETS, 20 per category, written by hand (not the samp
 
 ## EDGE CASES
 
-Empty strings and `None` values don't crash the script — they get tagged `GENERAL` with a `NEEDS HUMAN REVIEW (empty ticket)` flag.
+EMPTY STRINGS AND `None` values don't crash the script — they get tagged `GENERAL` with a `NEEDS HUMAN REVIEW (empty ticket)` flag.
 
 ## RUN IT
 
