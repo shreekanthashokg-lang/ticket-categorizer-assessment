@@ -42,7 +42,7 @@ pip install scikit-learn pandas numpy joblib
 python ticket_categorizer.py
 ```
 
-Or open `ticket_categorizer.ipynb` in Google Colab and run all cells.
+Or open `ticket_categorizer.ipynb` IN GOOGLE COLLAB and run all cells.
 
 ## WHAT I'd IMPROVE WITH MORE TIME
 
