@@ -23,7 +23,7 @@ AN ASSIGNING TIME.
 
 ## DATASET
 
-OWN DUMMY DATASET — 80 TICKETS, 20 per category, written by hand (not the sample data given in the brief).
+OWN DUMMY DATASET — 80 TICKETS, 20 per CATEGORY, written by hand (not the sample DATA given in the brief).
 
 ## RESULTS
 
