@@ -8,7 +8,7 @@ AN ASSIGNING TIME.
 
 | File | WHAT IT IS |
 |---|---|
-| `ticket_categorizer.py` | Main script — run this directly |
+| `ticket_categorizer.py` | MAIN SCRIPT — run this directly |
 | `ticket_categorizer.ipynb` | SAME CODE, split into NOTEBOOK cells for Colab |
 | `full_output.txt` | CONSOLE OUTPUT FROM AN actual run (accuracy, report, predictions) |
 | `ticket_classifier.pkl` | TRAINED MODEL, SAVED JOBLIB |
