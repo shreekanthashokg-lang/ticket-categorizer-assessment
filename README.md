@@ -19,7 +19,7 @@ AN ASSIGNING TIME.
 2. **Vectorize** — TF-IDF with 1-2 grams, English stopwords removed
 3. **Classify** — Multinomial Naive Bayes (works well on small text datasets, fast to train)
 4. **Score confidence** — if the model's top prediction is below 60%, the ticket goes to `NEEDS HUMAN REVIEW` instead of getting auto-assigned
-5. **Tag priority** — keyword match against words like "urgent", "down", "crashed", "error 500" → `URGENT`, else `NORMAL`
+5. **Tag priority** — KEYWORD MATCH against words like "urgent", "down", "crashed", "error 500" → `URGENT`, else `NORMAL`
 
 ## DATASET
 
