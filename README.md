@@ -10,7 +10,7 @@ AN ASSIGNING TIME.
 |---|---|
 | `ticket_categorizer.py` | MAIN SCRIPT — run this directly |
 | `ticket_categorizer.ipynb` | SAME CODE, split into NOTEBOOK cells for Colab |
-| `full_output.txt` | CONSOLE OUTPUT FROM AN actual run (accuracy, report, predictions) |
+| `full_output.txt` | CONSOLE OUTPUT FROM AN actual run (ACCURACY, REPORT, predictions) |
 | `ticket_classifier.pkl` | TRAINED MODEL, SAVED JOBLIB |
 
 ## HOW IT WORKS
