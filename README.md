@@ -1132,7 +1132,7 @@ Return result
 
 # ⚠️ CURRENT LIMITATIONS
 
-## 1. Small Dataset
+## 1. SMALL DATASET
 
 The dataset contains only 80 tickets.
 
