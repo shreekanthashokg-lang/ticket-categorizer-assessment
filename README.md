@@ -257,7 +257,7 @@ The examples were designed to contain category-specific vocabulary and common cu
 
 Examples of relevant terminology include:
 
-### Billing vocabulary
+### BILLING VOCABULARY
 
 ```text
 payment
