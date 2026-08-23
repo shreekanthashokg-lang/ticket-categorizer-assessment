@@ -296,7 +296,7 @@ joining
 benefits
 ```
 
-### General vocabulary
+### GENERAL VOCABULARY 
 
 ```text
 information
