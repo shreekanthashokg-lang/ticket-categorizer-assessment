@@ -178,7 +178,7 @@ Category: TECHNICAL
 
 The **HR** category contains employee-related requests.
 
-Examples include:
+EXAMPLES INCLUDES :
 
 * Leave requests
 * Attendance issues
