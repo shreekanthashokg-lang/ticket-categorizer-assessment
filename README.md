@@ -2,7 +2,7 @@
 
 ## Auto Email / Support Ticket Classification System
 
-### AI/ML Intern Assessment — FOBES Skill Itech Pvt Ltd
+### AI/ML INTERN Assessment — FOBES Skill Itech Pvt Ltd
 
 ---
 
