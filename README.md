@@ -283,7 +283,7 @@ website
 application
 ```
 
-### HR vocabulary
+### HR VOCABULARY 
 
 ```text
 employee
