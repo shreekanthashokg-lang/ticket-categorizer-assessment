@@ -101,7 +101,7 @@ The project has the following objectives:
 * Evaluate model performance using standard ML metrics.
 * Save the trained model for future predictions.
 
-### Secondary Objectives
+### SECONDARY OBJECTIVES 
 
 * Demonstrate practical NLP preprocessing.
 * Demonstrate TF-IDF feature engineering.
