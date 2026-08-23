@@ -166,7 +166,7 @@ Example:
 "The website is showing error 500 whenever I try to log in."
 ```
 
-Expected result:
+EXPECTED RESULT :
 
 ```text
 Category: TECHNICAL
