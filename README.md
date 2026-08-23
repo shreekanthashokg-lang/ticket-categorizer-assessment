@@ -520,7 +520,7 @@ Using 1–2 grams helps the model capture both individual keywords and short phr
 
 The project uses:
 
-## Multinomial Naive Bayes
+## MULTINOMIAL NAIVE BAYES 
 
 Multinomial Naive Bayes is a common baseline algorithm for text classification.
 
