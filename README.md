@@ -90,7 +90,7 @@ The purpose of this project is to automate the **first-level ticket triage proce
 
 The project has the following objectives:
 
-### Primary Objectives
+### PRIMARY OBJECTIVES 
 
 * Read and process support-ticket text.
 * Automatically classify tickets into four categories.
