@@ -270,7 +270,7 @@ price
 billing
 ```
 
-### Technical vocabulary
+### TECHNICAL VOCABULARY
 
 ```text
 server
