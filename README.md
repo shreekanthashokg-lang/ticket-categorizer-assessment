@@ -1630,7 +1630,7 @@ Human-in-the-Loop AI
 TF-IDF + Multinomial Naive Bayes
 ```
 
-### Current Result
+### CURRENT RESULT
 
 ```text
 75% Test Accuracy
