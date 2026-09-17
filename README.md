@@ -176,7 +176,7 @@ Category: TECHNICAL
 
 ## 3. 👥 HR
 
-The **HR** category contains employee-related requests.
+The **HR** CATEGORY CONTAINS employee-related requests.
 
 EXAMPLES INCLUDES :
 
