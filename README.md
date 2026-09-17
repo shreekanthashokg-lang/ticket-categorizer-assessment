@@ -160,7 +160,7 @@ Examples include:
 * Connectivity issues
 * Error messages
 
-Example:
+EXAMPLE:
 
 ```text
 "The website is showing error 500 whenever I try to log in."
