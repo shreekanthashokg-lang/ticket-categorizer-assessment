@@ -58,7 +58,7 @@ Organizations receive support requests through:
 
 Manually reading every incoming ticket and forwarding it to the correct department is repetitive and time-consuming.
 
-For example:
+FOR EXAMPLE :
 
 ```text
 "My card was charged twice for the same subscription."
