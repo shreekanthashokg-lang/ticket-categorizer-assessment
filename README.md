@@ -314,7 +314,7 @@ Because the dataset is synthetic and relatively small, the model's performance s
 
 # 📂 PROJECT FILES
 
-| File                       | Description                     |
+| FILE                       | DESCRIPTION                     |
 | -------------------------- | ------------------------------- |
 | `ticket_categorizer.py`    | Main Python implementation      |
 | `ticket_categorizer.ipynb` | Jupyter/Google Colab version    |
