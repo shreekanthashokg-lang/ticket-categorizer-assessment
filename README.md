@@ -434,7 +434,7 @@ The project performs basic text cleaning.
 
 Example:
 
-### Raw Input
+### RAW INPUT
 
 ```text
 URGENT!!! My server is DOWN.
