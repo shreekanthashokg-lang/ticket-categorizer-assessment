@@ -47,7 +47,7 @@ Final Ticket Result
 
 # 🎯 PROBLEM STATEMENT
 
-Organizations receive support requests through:
+Organizations RECIEVE SUPPPORT REQUESTS THROUGH :
 
 * Email
 * Contact forms
