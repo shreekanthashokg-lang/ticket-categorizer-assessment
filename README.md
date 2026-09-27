@@ -21,7 +21,7 @@ IN ADDITION  to category prediction, the system performs two additional tasks:
 1. **Priority Detection** — determines whether the ticket is `URGENT` or `NORMAL`.
 2. **Confidence-Based Human Review** — identifies predictions where the ML model is not sufficiently confident and sends them for `NEEDS HUMAN REVIEW` instead of automatically assigning them.
 
-The project demonstrates a complete basic NLP/ML pipeline:
+The project demonstrates a complete BASIC NLP/ML PIPELINE:
 
 ```text
 Raw Ticket
