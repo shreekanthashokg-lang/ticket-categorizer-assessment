@@ -87,7 +87,7 @@ The purpose of this project is to automate the **first-level ticket triage proce
 
 # 🎯 PROJECT OBJECTIVES
 
-The project has the following objectives:
+THE PROJECT HAS THE FOLLOWING OBJECTIVES :
 
 ### PRIMARY OBJECTIVES 
 
