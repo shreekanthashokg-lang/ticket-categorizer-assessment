@@ -1,6 +1,6 @@
 # 🎫 TICKET CATEGORIZER
 
-## Auto Email / Support Ticket Classification System
+## AUTO EMAIL || Support Ticket Classification System
 
 ### AI/ML INTERN ASSESSMENT — FOBES SKILL ITECH PVT LTD
 
