@@ -130,7 +130,7 @@ Typical examples include:
 * Payment failures
 * Billing information
 
-Example:
+EXAMPLE FOR THE FOLLOWING:
 
 ```text
 "I was charged twice for my monthly subscription."
